@@ -1,12 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Bluetech-Solu-test
 # Bluetech-Solu-test
 
 # Product Management Dashboard
@@ -73,7 +64,7 @@ You can update this endpoint in `ApiContext.js` if needed.
 - **Styling:** You can update styles in `App.css`.
 - **API Endpoint:** Update the API endpoint in `ApiContext.js` to fetch products from a different source.
 - **Pagination & Filters:** Implement pagination and filtering logic in `ProductTable`.
-- **Dropdown Menu: ** Select different product catalogues in `Header`.
+- **Dropdown Menu:** Select different product catalogues in `Header`.
 
 
 
