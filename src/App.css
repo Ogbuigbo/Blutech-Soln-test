@@ -1,0 +1,19 @@
+.app{
+  font-size: 12px;
+  background-color:  #f3f4f6;
+  padding-bottom: 100px;
+  height: max-content;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+}
+
+th {
+  background-color: #F0F4FE;
+}
+
+
+
